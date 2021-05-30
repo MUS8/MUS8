@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MUS8
 - 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... Web Design, ANdroid, Cryptocurrency.
+- 🌱 I’m currently learning ... Web Design, Android, Cryptocurrency.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
